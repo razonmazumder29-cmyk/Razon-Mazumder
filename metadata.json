@@ -1,0 +1,8 @@
+{
+  "name": "Remix SSS Zone Chattogram-02 Staff Database \u0026 Alerts",
+  "description": "Society for Social Service (SSS) Zone Chattogram-02 staff database management, birthday \u0026 anniversary alert automation, email dispatch, and blood group directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
